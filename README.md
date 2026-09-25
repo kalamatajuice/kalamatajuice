@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Grayson-Cotham
+- 👋 Hi, I’m @Gray
 - 👀 I’m interested in parametric modelling 
 - 🌱 I’m currently learning python for grasshopper
 - 💞️ I’m looking to collaborate on ...
